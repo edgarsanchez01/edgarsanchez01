@@ -24,4 +24,3 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [edgarsanchez01/snk](https://github.com/edgarsanchez01/snk)_
