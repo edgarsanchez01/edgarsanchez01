@@ -3,9 +3,7 @@ name: Generate Snake
 on:
 schedule:
 - cron: "0 0 * * *"
-
 workflow_dispatch:
-
 push:
 branches:
 - main
@@ -14,11 +12,10 @@ jobs:
 generate:
 permissions:
 contents: write
-
-```
 runs-on: ubuntu-latest
 timeout-minutes: 5
 
+```
 steps:
   - name: Generate contribution snake
     uses: Platane/snk/svg-only@v3
