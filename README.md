@@ -1,102 +1,52 @@
 <div align="center">
 
-# EDGAR SANCHEZ
+# 👋 Hola, soy Edgar Sánchez
 
-### `Backend Developer`
+### **Backend Developer | Java & Spring Boot Specialist**
 
-**Java • Spring Boot • PostgreSQL**
-
-Building backend services, REST APIs, and data-driven applications.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/edgarsanchez01)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gread._.01/)
 
 </div>
 
 ---
 
-## `~/about`
+## 💻 Sobre mí
 
-I'm a backend developer focused on building reliable and maintainable applications with **Java and Spring Boot**.
-
-I enjoy working with APIs, databases, backend architecture, and exploring new technologies to improve the way I build software.
+Desarrollador backend enfocado en la creación de servicios robustos, APIs REST escalables y aplicaciones orientadas a datos. Me apasiona la arquitectura de backend, la optimización de bases de datos y el desarrollo con **Java y Spring Boot**.
 
 ---
 
-## `~/skills`
+## 🛠️ Tecnologías y Herramientas
 
-### `backend/`
-
-`Java` · `Spring Boot` · `Spring Security` · `JPA` · `REST APIs`
-
-### `databases/`
-
-`PostgreSQL` · `MySQL` · `Oracle`
-
-### `devops/`
-
-`Docker` · `Git` · `GitHub` · `Linux` · `Maven`
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Backend** | `Java` · `Spring Boot` · `Spring Security` · `JPA / Hibernate` · `REST APIs` |
+| **Bases de Datos** | `PostgreSQL` · `MySQL` · `Oracle` |
+| **DevOps & Herramientas** | `Docker` · `Git` · `GitHub` · `Linux (EndeavourOS)` · `Maven` |
+| **Aprendiendo actual** | `Microservicios` · `Kubernetes` · `CI/CD` |
 
 ---
 
-## `~/projects`
+## 🚀 Proyectos Destacados
 
-### 🦷 Consultorio
-
-Dental management platform built as a reusable backend-oriented application.
-
-**Java · Spring Boot · PostgreSQL · Docker**
-
-### 👗 Belomora
-
-E-commerce platform with a Java/Spring Boot backend and modern web frontend.
-
-**Java · Spring Boot · PostgreSQL · React**
-
-### 📦 Logistics Backend
-
-Backend application focused on logistics and data processing.
-
-**Java · Spring Boot · Oracle · Spring Batch · REST APIs**
+*   🦷 **Consultorio (SaaS Dental)** — Plataforma multi-inquilino para la gestión de clínicas dentales, citas y expedientes médicos. *(Java, Spring Boot, PostgreSQL, Docker)*
+*   👗 **Belomora** — E-commerce de moda femenina con pasarela de pagos integrada y panel administrativo. *(Java, Spring Boot, PostgreSQL, React)*
+*   📦 **Logistics Backend** — Sistema de procesamiento de datos y backend orientado a la cadena de suministro y logística. *(Java, Spring Boot, Oracle, Spring Batch)*
 
 ---
 
-## `~/github`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
-</p>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg"
-  >
-  <img
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg"
-  >
-</picture>
-
----
-
-## `~/currently-learning`
-
-`Microservices` · `Kubernetes` · `OpenShift` · `CI/CD` · `Spring Security`
-
----
-
-## `~/connect`
+## 📊 Estadísticas y Actividad
 
 <div align="center">
-
-<a href="https://www.instagram.com/gread._.01/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://twitter.com/gread01" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats">
 </div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg">
+</picture>
