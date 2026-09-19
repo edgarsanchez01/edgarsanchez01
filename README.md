@@ -1,52 +1,25 @@
 <div align="center">
-
-# 👋 Hola, soy Edgar Sánchez
-
-### **Backend Developer | Java & Spring Boot Specialist**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/edgarsanchez01)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gread._.01/)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30,40&height=180&section=header&text=EDGAR%20SANCHEZ&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Java%20&%20Spring%20Boot&descSize=16&descAlignY=62" width="100%" />
 </div>
-
----
-
-## 💻 Sobre mí
-
-Desarrollador backend enfocado en la creación de servicios robustos, APIs REST escalables y aplicaciones orientadas a datos. Me apasiona la arquitectura de backend, la optimización de bases de datos y el desarrollo con **Java y Spring Boot**.
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Backend** | `Java` · `Spring Boot` · `Spring Security` · `JPA / Hibernate` · `REST APIs` |
-| **Bases de Datos** | `PostgreSQL` · `MySQL` · `Oracle` |
-| **DevOps & Herramientas** | `Docker` · `Git` · `GitHub` · `Linux (EndeavourOS)` · `Maven` |
-| **Aprendiendo actual** | `Microservicios` · `Kubernetes` · `CI/CD` |
-
----
-
-## 🚀 Proyectos Destacados
-
-*   🦷 **Consultorio (SaaS Dental)** — Plataforma multi-inquilino para la gestión de clínicas dentales, citas y expedientes médicos. *(Java, Spring Boot, PostgreSQL, Docker)*
-*   👗 **Belomora** — E-commerce de moda femenina con pasarela de pagos integrada y panel administrativo. *(Java, Spring Boot, PostgreSQL, React)*
-*   📦 **Logistics Backend** — Sistema de procesamiento de datos y backend orientado a la cadena de suministro y logística. *(Java, Spring Boot, Oracle, Spring Batch)*
-
----
-
-## 📊 Estadísticas y Actividad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats">
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+
 </div>
 
-<br>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg">
-</picture>
+### 🚀 Sobre mí
+```json
+{
+  "name": "Edgar Sánchez",
+  "role": "Backend Developer",
+  "focus": ["Spring Boot APIs", "Database Optimization", "System Architecture"],
+  "os": "EndeavourOS + Kitty",
+  "status": "Constantly learning & building backend services"
+}
