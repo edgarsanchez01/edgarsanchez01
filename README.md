@@ -1,96 +1,76 @@
-<!-- ========================================================= -->
-
-<!--                    EDGAR SÁNCHEZ                          -->
-
-<!--              LINUX / BACKEND DASHBOARD                    -->
-
-<!-- ========================================================= -->
-
 <div align="center">
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                         HERO                                -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/main/assets/header.png" width="100%" alt="Edgar Sánchez — Backend Developer"/>
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Backend+Developer+%E2%98%95;Java+%7C+Spring+Boot+%7C+PostgreSQL;Linux+%7C+Docker+%7C+REST+APIs;Building+things+that+actually+work+%F0%9F%9A%80" alt="Typing animation"/>
+
+<br>
+
+<a href="https://github.com/edgarsanchez01">
+<img src="https://img.shields.io/github/followers/edgarsanchez01?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/edgarsanchez01?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-38bdf8?style=flat-square&labelColor=0d1117"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=edgarsanchez01&style=flat-square&color=a855f7&label=Profile+Views"/>
+
 </div>
 
 <br>
 
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                       STATUS BAR                          -->
+<!--                         ABOUT                              -->
 
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────────────────────────╮
-│  edgar@github  ~/backend  │  JAVA 21  │  SPRING BOOT  │  LINUX      │
-│  ──────────────────────────┴───────────┴───────────────┴───────────── │
-│                                                                      │
-│                         ● SYSTEM ONLINE                              │
-╰──────────────────────────────────────────────────────────────────────╯
-```
+## 👋 Hey, I'm Edgar
 
 </div>
-
-<br>
-
-<!-- ========================================================= -->
-
-<!--                    ABOUT / TERMINAL                       -->
-
-<!-- ========================================================= -->
 
 <table>
 <tr>
 
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-## `~/about`
+### 🧑‍💻 About Me
 
-```text
-┌──[ edgar@github ]─[ ~/about ]──────────────────────┐
-│                                                    │
-│  $ whoami                                          │
-│                                                    │
-│  Edgar Sánchez                                     │
-│  Backend Developer                                 │
-│                                                    │
-│  $ cat profile.txt                                 │
-│                                                    │
-│  Building backend systems with Java & Spring Boot. │
-│  Focused on REST APIs, persistence, data and       │
-│  maintainable service architecture.                │
-│                                                    │
-│  $ echo $CURRENT_STATUS                            │
-│                                                    │
-│  Building → Learning → Improving                   │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
+I'm a **Backend Developer** focused on the Java ecosystem.
+
+I enjoy turning ideas into real applications — designing APIs, working with databases, building services and connecting systems together.
+
+My main playground is:
+
+**Java + Spring Boot + PostgreSQL + Docker + Linux**
+
+I'm especially interested in backend architecture, clean code, security and learning how the pieces of a larger system fit together.
 
 </td>
 
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
-## `system.info`
+### ⚡ Quick Info
 
 ```text
-┌──────────────────────────────┐
-│ SYSTEM INFORMATION           │
-├──────────────────────────────┤
-│                              │
-│ USER       edgar             │
-│ ROLE       backend           │
-│ JVM        Java 21           │
-│ OS         Linux             │
-│ DISTRO     EndeavourOS       │
-│ SHELL      Bash              │
-│ EDITOR     IntelliJ IDEA     │
-│                              │
-│ STATUS     ● ONLINE          │
-│                              │
-└──────────────────────────────┘
+☕  Java        →  21
+🌱  Spring      →  Boot
+🐘  Database    →  PostgreSQL
+🐳  Containers  →  Docker
+🐧  OS          →  Linux
+🔧  Versioning  →  Git
+🧠  Focus       →  Backend
 ```
 
 </td>
@@ -100,202 +80,114 @@
 
 <br>
 
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                       CORE STACK                          -->
+<!--                       TECH STACK                           -->
 
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# `⚡ CORE STACK`
+## 🧰 My Toolkit
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,oracle,mysql,docker&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,oracle,docker&perline=8" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/JAVA_21-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/SPRING_BOOT-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/POSTGRESQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/DOCKER-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/LINUX-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://skillicons.dev/icons?i=linux,arch,git,github,idea,vscode,postman,bash&perline=8" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css,tailwind&perline=7" />
 
 </div>
 
 <br>
 
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                     ENGINEERING MAP                       -->
+<!--                      CURRENT FOCUS                         -->
 
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# `🧩 ENGINEERING MAP`
+## 🌱 Currently Building & Learning
 
-</div>
+<br>
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td align="center" width="25%">
 
-### ☕ BACKEND
+### ☕
 
-```text
-Java
+**Java Backend**
+
 Spring Boot
-Spring Security
-Spring Data JPA
-Hibernate
 REST APIs
-DTO / Mapper
-Microservices
-JWT
-```
+JPA / Hibernate
 
 </td>
 
-<td width="33%" valign="top">
+<td align="center" width="25%">
 
-### 🗄️ DATA
+### 🔐
 
-```text
-PostgreSQL
-Oracle
-MySQL
-SQL
-JPA
-Database Design
-Persistence
-Transactions
-```
+**Security**
 
-</td>
-
-<td width="33%" valign="top">
-
-### 🐧 ENVIRONMENT
-
-```text
-Linux
-Docker
-Git
-GitHub
-Maven
-IntelliJ IDEA
-Postman
-Bash
-```
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### 🌐 INTEGRATION
-
-```text
-REST
-Webhooks
-JSON
-HTTP
-Authentication
-External APIs
-Payment APIs
-Service Integration
-```
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🎨 FRONTEND
-
-```text
-React
-Angular
-TypeScript
-JavaScript
-HTML
-CSS
-Tailwind
-```
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🧠 CURRENT FOCUS
-
-```text
 Spring Security
+JWT
+Authentication
+Authorization
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧩
+
+**Architecture**
+
 Microservices
 System Design
+Modular Backend
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐳
+
+**Infrastructure**
+
 Docker
-Cloud Concepts
-Backend Architecture
-Clean Code
-```
+Linux
+CI/CD concepts
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
-<!-- ========================================================= -->
-
-<!--                    CURRENT MISSION                        -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-# `🚧 CURRENT MISSION`
-
-```text
-╭────────────────────────────────────────────────────────────────────╮
-│                                                                    │
-│  [01] BUILD                                                        │
-│                                                                    │
-│      Backend systems that solve real problems.                     │
-│                                                                    │
-│  [02] ARCHITECT                                                    │
-│                                                                    │
-│      Modular services with clear responsibilities.                 │
-│                                                                    │
-│  [03] LEARN                                                        │
-│                                                                    │
-│      Deepen Java, Spring, security and distributed systems.        │
-│                                                                    │
-│  [04] SHIP                                                         │
-│                                                                    │
-│      Turn ideas into working software.                             │
-│                                                                    │
-╰────────────────────────────────────────────────────────────────────╯
-```
-
 </div>
 
 <br>
 
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                       PROJECTS                            -->
+<!--                       PROJECTS                             -->
 
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# `🚀 FEATURED PROJECTS`
+## 🚀 Featured Projects
+
+<br>
 
 </div>
 
@@ -304,62 +196,71 @@ Clean Code
 
 <td width="50%" valign="top">
 
-## 🦷 `CONSULTORIO`
+<div align="center">
 
-### Dental SaaS Platform
+### 🦷 Consultorio
 
-```text
-TYPE
-└── Multi-tenant SaaS
+**Dental SaaS Platform**
 
-BACKEND
-├── Java 21
-├── Spring Boot
-├── Spring Security
-├── Spring Data JPA
-└── REST API
+<br>
 
-INFRASTRUCTURE
-├── PostgreSQL
-└── Docker
+A reusable backend platform designed for dental clinics.
 
-STATUS
-└── ● ACTIVE DEVELOPMENT
-```
+<br>
 
-A reusable backend platform designed around the needs of dental clinics, with a focus on modular architecture, users, schedules and appointments.
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker" />
+
+<br><br>
+
+`Java 21` · `Spring Boot` · `PostgreSQL` · `Docker`
+
+<br><br>
+
+**Architecture**
+
+`REST API` · `Security` · `Multi-tenant`
+`Users` · `Schedules` · `Appointments`
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-a855f7?style=flat-square&labelColor=0d1117"/>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🛍️ `BELOMORA`
+<div align="center">
 
-### E-Commerce Platform
+### 🛍️ Belomora
 
-```text
-TYPE
-└── E-Commerce
+**E-Commerce Platform**
 
-BACKEND
-├── Java
-├── Spring Boot
-├── Spring Security
-└── REST API
+<br>
 
-FRONTEND
-├── React
-└── TypeScript
+A custom fashion e-commerce platform built from scratch.
 
-INTEGRATIONS
-├── Mercado Pago
-└── Webhooks
+<br>
 
-STATUS
-└── ● ACTIVE DEVELOPMENT
-```
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,react,typescript,docker" />
 
-An e-commerce platform built with a backend-first approach, including products, cart, orders and payment integration.
+<br><br>
+
+`Java` · `Spring Boot` · `React` · `PostgreSQL`
+
+<br><br>
+
+**Architecture**
+
+`Products` · `Cart` · `Orders`
+`Mercado Pago` · `Webhooks` · `JWT`
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-ec4899?style=flat-square&labelColor=0d1117"/>
+
+</div>
 
 </td>
 
@@ -368,84 +269,158 @@ An e-commerce platform built with a backend-first approach, including products, 
 
 <br>
 
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                    ARCHITECTURE                           -->
+<!--                       BACKEND                             -->
 
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# `🏗️ BACKEND MINDSET`
+## 🧩 Backend Playground
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+
+**API**
+
+<br>
+
+![REST](https://img.shields.io/badge/REST-7c3aed?style=for-the-badge\&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-0d1117?style=for-the-badge\&logo=json\&logoColor=38bdf8)
+![HTTP](https://img.shields.io/badge/HTTP-0d1117?style=for-the-badge\&logoColor=white)
+
+</td>
+
+<td align="center">
+
+**Persistence**
+
+<br>
+
+![JPA](https://img.shields.io/badge/JPA-0d1117?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-0d1117?style=for-the-badge\&logo=hibernate\&logoColor=bcae79)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge\&logoColor=38bdf8)
+
+</td>
+
+<td align="center">
+
+**Security**
+
+<br>
+
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge\&logo=jsonwebtokens\&logoColor=pink)
+![OAuth](https://img.shields.io/badge/Auth-0d1117?style=for-the-badge)
+
+</td>
+
+<td align="center">
+
+**DevOps**
+
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git\&logoColor=F05032)
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                    DEVELOPMENT LOOP                       -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
+## 🔄 My Development Loop
+
+<br>
+
 ```text
-                         ┌──────────────────┐
-                         │     CLIENT       │
-                         │ Web / Mobile     │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │    REST API      │
-                         │  Controllers     │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │     SERVICE      │
-                         │ Business Logic   │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │   REPOSITORY     │
-                         │   Persistence    │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │    DATABASE      │
-                         │ PostgreSQL / SQL │
-                         └──────────────────┘
+        💡 IDEA
+           │
+           ▼
+      ┌──────────┐
+      │  DESIGN  │
+      └────┬─────┘
+           │
+           ▼
+      ┌──────────┐
+      │  CODE ☕ │
+      └────┬─────┘
+           │
+           ▼
+      ┌──────────┐
+      │  TEST 🧪 │
+      └────┬─────┘
+           │
+           ▼
+      ┌──────────┐
+      │ DOCKER 🐳│
+      └────┬─────┘
+           │
+           ▼
+      ┌──────────┐
+      │   SHIP 🚀│
+      └────┬─────┘
+           │
+           └──────────────► 🔁
 ```
 
 </div>
 
 <br>
 
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <!--                       GITHUB                              -->
 
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# `📡 GITHUB ACTIVITY`
+## 📊 GitHub Activity
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=38bdf8&text_color=c9d1d9&ring_color=c084fc" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=38bdf8&text_color=c9d1d9&ring_color=a855f7" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsanchez01&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsanchez01&layout=compact&hide_border=true&bg_color=0d1117&title_color=ec4899&text_color=c9d1d9" height="170"/>
 
 </div>
 
 <br>
 
-<!-- ========================================================= -->
+<div align="center">
 
-<!--                    CONTRIBUTIONS                          -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edgarsanchez01&hide_border=true&background=0d1117&ring=8b5cf6&fire=ec4899&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=6e7681" width="65%"/>
 
-<!-- ========================================================= -->
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                         SNAKE                              -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# `🐍 CONTRIBUTION MATRIX`
+## 🐍 Contribution Garden
 
 <br>
 
@@ -466,95 +441,67 @@ An e-commerce platform built with a backend-first approach, including products, 
 
 <br>
 
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                       TERMINAL                            -->
+<!--                         FUN ZONE                           -->
 
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
+## 🐧 A Few Things About Me
+
+<br>
+
+|        ☕        |     🐧     |       🐳       |         🎧        |
+| :-------------: | :--------: | :------------: | :---------------: |
+| Java enthusiast | Linux user | Docker enjoyer | Coding with music |
+
+<br>
+
 ```text
-┌──[ edgar@github ]─[ ~/terminal ]───────────────────────────────────┐
-│                                                                    │
-│  $ java --version                                                  │
-│  openjdk 21                                                        │
-│                                                                    │
-│  $ spring --framework                                              │
-│  Spring Boot                                                        │
-│                                                                    │
-│  $ database --primary                                              │
-│  PostgreSQL                                                         │
-│                                                                    │
-│  $ container --runtime                                             │
-│  Docker                                                             │
-│                                                                    │
-│  $ operating-system                                                │
-│  EndeavourOS / Linux                                                │
-│                                                                    │
-│  $ git status                                                       │
-│  On branch main                                                     │
-│  Your backend is ready.                                            │
-│                                                                    │
-│  $ _                                                               │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│   "Build it. Break it. Understand it.               │
+│    Then build it better."                            │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
 ```
 
 </div>
 
 <br>
 
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <!--                         CONNECT                            -->
 
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# `🌐 CONNECT`
+## 🌐 Let's Connect
 
 <br>
 
 <a href="https://github.com/edgarsanchez01">
-<img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
  
 
 <a href="https://www.instagram.com/gread._.01/">
-<img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
  
 
 <a href="https://twitter.com/gread01">
-<img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <br><br>
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   Thanks for visiting my GitHub.             │
-│                                              │
-│   $ exit                                     │
-│                                              │
-│   Connection closed.                         │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-JAVA • SPRING BOOT • POSTGRESQL • DOCKER • LINUX
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40&height=120&section=footer"/>
 
 </div>
