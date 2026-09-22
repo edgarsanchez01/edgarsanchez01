@@ -323,11 +323,8 @@ Always learning. Always building. Always breaking something first.
 </div>
 
 <br>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                      GITHUB STATS                             -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -338,15 +335,27 @@ Always learning. Always building. Always breaking something first.
 
 <a href="https://github.com/edgarsanchez01">
 
-<img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9&ring_color=A78BFA" height="170"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=38BDF8&text_color=F0F6FC&ring_color=A78BFA&include_all_commits=true"
+  height="180"
+  alt="Edgar's GitHub stats"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsanchez01&layout=compact&hide_border=true&bg_color=0d1117&title_color=EC4899&text_color=C9D1D9" height="170"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsanchez01&layout=compact&hide_border=true&bg_color=0d1117&title_color=EC4899&text_color=F0F6FC"
+  height="180"
+  alt="Top programming languages"
+/>
 
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edgarsanchez01&hide_border=true&background=0d1117&ring=A78BFA&fire=EC4899&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=6E7681" width="65%"/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=edgarsanchez01&hide_border=true&background=0d1117&ring=A78BFA&fire=EC4899&currStreakLabel=38BDF8&sideLabels=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E"
+  width="65%"
+  alt="GitHub contribution streak"
+/>
 
 </div>
 
