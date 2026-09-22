@@ -26,21 +26,20 @@ scalable services, and robust data architecture with <span style="color: #38bdf8
 <div align="center">
   <pre><code><span style="color: #a855f7;">┌─[</span> <span style="color: #38bdf8;">edgar@github</span> <span style="color: #a855f7;">]─[</span> <span style="color: #ec4899;">~/tech-stack</span> <span style="color: #a855f7;">]</span>
 └──╼ <span style="color: #22c55e;">$</span> neofetch --core-modules</code></pre>
-</div>
-
-<div align="center">
-
-  ### ⚡ Core & Backend
+  
+  <br>
+  
+  <h3 style="color: #c084fc;">⚡ Core & Backend</h3>
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,oracle,docker" alt="Backend Stack" />
 
-  <br>
+  <br><br>
 
-  ### 🛠️ Workflow & Environment
+  <h3 style="color: #c084fc;">🛠️ Workflow & Environment</h3>
   <img src="https://skillicons.dev/icons?i=linux,arch,idea,vscode,postman,maven,git,github" alt="Tools Stack" />
 
-  <br>
+  <br><br>
 
-  ### 💻 Frontend Integration
+  <h3 style="color: #c084fc;">💻 Frontend Integration</h3>
   <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind" alt="Frontend Stack" />
 
 </div>
@@ -90,8 +89,8 @@ scalable services, and robust data architecture with <span style="color: #38bdf8
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cursor=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsanchez01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cursor=true" width="48%" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsanchez01&layout=compact&theme=tokyonight&hide_border=true" width="48%" align="center" />
 </div>
 
 <br>
