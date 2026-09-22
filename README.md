@@ -8,7 +8,7 @@
 
 <!-- About Me -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=65&section=header&text=EDGAR%20SÁNCHEZ%20•%20BACKEND%20DEV&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=70&section=header&text=EDGAR%20SÁNCHEZ%20•%20BACKEND%20ENGINEER&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
 
 <br>
@@ -24,22 +24,21 @@ scalable services, and robust data architecture with <span style="color: #38bdf8
 
 <!-- Tech Stack -->
 <div align="center">
-  <pre><code><span style="color: #a855f7;">┌─[</span> <span style="color: #38bdf8;">edgar@github</span> <span style="color: #a855f7;">]─[</span> <span style="color: #ec4899;">~/tech-stack</span> <span style="color: #a855f7;">]</span>
-└──╼ <span style="color: #22c55e;">$</span> neofetch --core-modules</code></pre>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=40&text=⚡%20STACK%20&%20TECHNOLOGIES%20⚡&fontSize=16&fontColor=c084fc&animation=fadeIn" width="100%"/>
   
-  <br>
+  <br><br>
   
-  <h3 style="color: #c084fc;">⚡ Core & Backend</h3>
+  <h3 style="color: #c084fc;">Core & Backend</h3>
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,oracle,docker" alt="Backend Stack" />
 
   <br><br>
 
-  <h3 style="color: #c084fc;">🛠️ Workflow & Environment</h3>
+  <h3 style="color: #c084fc;">Workflow & Environment</h3>
   <img src="https://skillicons.dev/icons?i=linux,arch,idea,vscode,postman,maven,git,github" alt="Tools Stack" />
 
   <br><br>
 
-  <h3 style="color: #c084fc;">💻 Frontend Integration</h3>
+  <h3 style="color: #c084fc;">Frontend Integration</h3>
   <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind" alt="Frontend Stack" />
 
 </div>
@@ -48,8 +47,7 @@ scalable services, and robust data architecture with <span style="color: #38bdf8
 
 <!-- Projects -->
 <div align="center">
-  <pre><code><span style="color: #a855f7;">┌─[</span> <span style="color: #38bdf8;">edgar@github</span> <span style="color: #a855f7;">]─[</span> <span style="color: #ec4899;">~/projects</span> <span style="color: #a855f7;">]</span>
-└──╼ <span style="color: #22c55e;">$</span> git log --featured --oneline</code></pre>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=40&text=🚀%20FEATURED%20PROJECTS%20🚀&fontSize=16&fontColor=ec4899&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
@@ -82,18 +80,15 @@ scalable services, and robust data architecture with <span style="color: #38bdf8
 
 <!-- GitHub Activity -->
 <div align="center">
-  <pre><code><span style="color: #a855f7;">┌─[</span> <span style="color: #38bdf8;">edgar@github</span> <span style="color: #a855f7;">]─[</span> <span style="color: #ec4899;">~/stats</span> <span style="color: #a855f7;">]</span>
-└──╼ <span style="color: #22c55e;">$</span> gh stats --activity-stream</code></pre>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=40&text=📊%20ACTIVITY%20&%20METRICS%20📊&fontSize=16&fontColor=38bdf8&animation=fadeIn" width="100%"/>
   
-  <br>
+  <br><br>
   
-  <!-- Badges de Estadísticas Seguras -->
+  <!-- Tarjetas de métricas fluidas y sin errores de Vercel -->
   <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Main_Language-Java_%2F_Spring_Boot-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&color=161b22&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Database-PostgreSQL_%2F_Oracle-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&color=161b22&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/OS-Arch_%2F_EndeavourOS-0d1117?style=for-the-badge&logo=archlinux&logoColor=1793D1&color=161b22&labelColor=0d1117" />
   </p>
 </div>
 
@@ -111,24 +106,19 @@ scalable services, and robust data architecture with <span style="color: #38bdf8
 
 <!-- Connect -->
 <div align="center">
-  <pre><code><span style="color: #a855f7;">┌─[</span> <span style="color: #38bdf8;">edgar@github</span> <span style="color: #a855f7;">]─[</span> <span style="color: #ec4899;">~/connect</span> <span style="color: #a855f7;">]</span>
-└──╼ <span style="color: #22c55e;">$</span> ping -c 1 social-networks</code></pre>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=40&text=🌐%20CONNECT%20WITH%20ME%20🌐&fontSize=16&fontColor=8b5cf6&animation=fadeIn" width="100%"/>
+  
+  <br><br>
 
-<br>
-
-<div align="center">
-
-<a href="https://github.com/edgarsanchez01" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/gread._.01/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/gread01" target="_blank">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
-</a>
-
+  <a href="https://github.com/edgarsanchez01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/gread._.01/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/gread01" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+  </a>
 </div>
