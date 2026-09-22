@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/main/assets/header.png" width="100%" alt="Edgar Sánchez — Backend Developer"/>
+<img src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/main/assets/header.gif" width="100%" alt="Edgar Sánchez — Backend Developer"/>
 
 <br><br>
 
