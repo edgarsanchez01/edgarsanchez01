@@ -89,8 +89,12 @@ scalable services, and robust data architecture with <span style="color: #38bdf8
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cursor=true" width="48%" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsanchez01&layout=compact&theme=tokyonight&hide_border=true" width="48%" align="center" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsanchez01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  </p>
 </div>
 
 <br>
