@@ -7,28 +7,26 @@
 <br>
 
 <!-- About Me -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=430&lines=%24+whoami+%3A%3A+Backend+Developer;%24+focus+%3A%3A+Java+%26+Spring+Boot" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=65&section=header&text=EDGAR%20SÁNCHEZ%20•%20BACKEND%20DEV&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+</div>
+
+<br>
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center">
-        <code>[SYS_INFO]</code> Backend Developer specialized in designing high-performance REST APIs, scalable services, and robust data architecture with <b>Java & Spring Boot</b>.
-      </td>
-    </tr>
-  </table>
+  <pre><code><span style="color: #a855f7;">┌─[</span> <span style="color: #38bdf8;">edgar@github</span> <span style="color: #a855f7;">]─[</span> <span style="color: #ec4899;">~/about-me</span> <span style="color: #a855f7;">]</span>
+└──╼ <span style="color: #22c55e;">$</span> cat system.info
+Backend Developer specialized in designing high-performance REST APIs, 
+scalable services, and robust data architecture with <span style="color: #38bdf8;">Java & Spring Boot</span>.</code></pre>
 </div>
 
 <br>
 
 <!-- Tech Stack -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=%24+neofetch+--tech-stack;%24+loading+core+modules..." alt="Tech Stack Typing" />
-</p>
-
-<br>
+<div align="center">
+  <pre><code><span style="color: #a855f7;">┌─[</span> <span style="color: #38bdf8;">edgar@github</span> <span style="color: #a855f7;">]─[</span> <span style="color: #ec4899;">~/tech-stack</span> <span style="color: #a855f7;">]</span>
+└──╼ <span style="color: #22c55e;">$</span> neofetch --core-modules</code></pre>
+</div>
 
 <div align="center">
 
@@ -50,9 +48,10 @@
 <br>
 
 <!-- Projects -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=EC4899&center=true&vCenter=true&width=450&lines=%24+git+log+--featured-projects;%24+status+%3A%3A+production+ready" alt="Projects Typing" />
-</p>
+<div align="center">
+  <pre><code><span style="color: #a855f7;">┌─[</span> <span style="color: #38bdf8;">edgar@github</span> <span style="color: #a855f7;">]─[</span> <span style="color: #ec4899;">~/projects</span> <span style="color: #a855f7;">]</span>
+└──╼ <span style="color: #22c55e;">$</span> git log --featured --oneline</code></pre>
+</div>
 
 <br>
 
@@ -83,9 +82,10 @@
 <br>
 
 <!-- GitHub Activity -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=%24+git+stats+--activity;%24+fetching+contributions..." alt="Activity Typing" />
-</p>
+<div align="center">
+  <pre><code><span style="color: #a855f7;">┌─[</span> <span style="color: #38bdf8;">edgar@github</span> <span style="color: #a855f7;">]─[</span> <span style="color: #ec4899;">~/stats</span> <span style="color: #a855f7;">]</span>
+└──╼ <span style="color: #22c55e;">$</span> gh stats --activity-stream</code></pre>
+</div>
 
 <br>
 
@@ -107,9 +107,10 @@
 <br>
 
 <!-- Connect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=450&lines=%24+ping+--connect;%24+establishing+secure+channel..." alt="Connect Typing" />
-</p>
+<div align="center">
+  <pre><code><span style="color: #a855f7;">┌─[</span> <span style="color: #38bdf8;">edgar@github</span> <span style="color: #a855f7;">]─[</span> <span style="color: #ec4899;">~/connect</span> <span style="color: #a855f7;">]</span>
+└──╼ <span style="color: #22c55e;">$</span> ping -c 1 social-networks</code></pre>
+</div>
 
 <br>
 
