@@ -1,76 +1,79 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                          HERO                                   -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                         HERO                                -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/main/assets/header.png" width="100%" alt="Edgar Sánchez — Backend Developer"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Backend+Developer+%E2%98%95;Java+%7C+Spring+Boot+%7C+PostgreSQL;Linux+%7C+Docker+%7C+REST+APIs;Building+things+that+actually+work+%F0%9F%9A%80" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=Backend+Developer+%E2%98%95;Java+%7C+Spring+Boot+%7C+PostgreSQL;Linux+%7C+Docker+%7C+REST+APIs;Turning+ideas+into+working+software+%F0%9F%9A%80" alt="Typing animation"/>
 
-<br>
+<br><br>
 
-<a href="https://github.com/edgarsanchez01">
-<img src="https://img.shields.io/github/followers/edgarsanchez01?label=Followers&style=flat-square&color=7c3aed&labelColor=0d1117"/>
-</a>
-&nbsp;
-<a href="https://github.com/edgarsanchez01?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-38bdf8?style=flat-square&labelColor=0d1117"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=edgarsanchez01&style=flat-square&color=a855f7&label=Profile+Views"/>
+<img src="https://img.shields.io/badge/☕_JAVA-21-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/🌱_SPRING-BOOT-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/🐘_POSTGRESQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/🐳_DOCKER-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/🐧_LINUX-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                         ABOUT                              -->
+<!--                         INTRO                                  -->
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 👋 Hey, I'm Edgar
-
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-### 🧑‍💻 About Me
+## 👋 Hey, I'm Edgar
 
-I'm a **Backend Developer** focused on the Java ecosystem.
+I'm a **Backend Developer** focused on building applications with the Java ecosystem.
 
-I enjoy turning ideas into real applications — designing APIs, working with databases, building services and connecting systems together.
+I enjoy working on the parts users don't always see:
 
-My main playground is:
+**APIs · business logic · databases · authentication · integrations · architecture**
 
-**Java + Spring Boot + PostgreSQL + Docker + Linux**
+My main stack revolves around:
 
-I'm especially interested in backend architecture, clean code, security and learning how the pieces of a larger system fit together.
+> ☕ **Java** + 🌱 **Spring Boot** + 🐘 **PostgreSQL** + 🐳 **Docker**
+
+I'm continuously learning how to design cleaner, more maintainable and reliable backend systems.
 
 </td>
 
-<td width="40%" valign="top">
-
-### ⚡ Quick Info
+<td width="35%" valign="top">
 
 ```text
-☕  Java        →  21
-🌱  Spring      →  Boot
-🐘  Database    →  PostgreSQL
-🐳  Containers  →  Docker
-🐧  OS          →  Linux
-🔧  Versioning  →  Git
-🧠  Focus       →  Backend
+╭─────────────────────────╮
+│       SYSTEM.INFO       │
+├─────────────────────────┤
+│                         │
+│  👨‍💻  ROLE              │
+│      Backend Developer  │
+│                         │
+│  ☕  JVM                │
+│      Java 21            │
+│                         │
+│  🐧  OS                │
+│      Linux              │
+│                         │
+│  📦  CONTAINERS         │
+│      Docker             │
+│                         │
+│  🟢  STATUS             │
+│      Building...        │
+│                         │
+╰─────────────────────────╯
 ```
 
 </td>
@@ -80,15 +83,15 @@ I'm especially interested in backend architecture, clean code, security and lear
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                       TECH STACK                           -->
+<!--                         STACK                                  -->
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🧰 My Toolkit
+## 🧰 Technologies I Use
 
 <br>
 
@@ -100,36 +103,37 @@ I'm especially interested in backend architecture, clean code, security and lear
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css,tailwind&perline=7" />
+<sub>Backend • Databases • Infrastructure • Development Tools</sub>
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                      CURRENT FOCUS                         -->
+<!--                       WHAT I BUILD                              -->
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🌱 Currently Building & Learning
+## 🧩 What I Build
 
-<br>
+</div>
 
 <table>
 <tr>
 
 <td align="center" width="25%">
 
-### ☕
+### 🔌
 
-**Java Backend**
+**APIs**
 
-Spring Boot
-REST APIs
-JPA / Hibernate
+RESTful services
+JSON
+HTTP
+Integrations
 
 </td>
 
@@ -148,13 +152,14 @@ Authorization
 
 <td align="center" width="25%">
 
-### 🧩
+### 🗄️
 
-**Architecture**
+**Data**
 
-Microservices
-System Design
-Modular Backend
+PostgreSQL
+Oracle
+MySQL
+JPA / Hibernate
 
 </td>
 
@@ -166,26 +171,25 @@ Modular Backend
 
 Docker
 Linux
-CI/CD concepts
+Git
+Environment setup
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                       PROJECTS                             -->
+<!--                        PROJECTS                                 -->
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🚀 Featured Projects
+## 🚀 Things I'm Building
 
 <br>
 
@@ -198,13 +202,9 @@ CI/CD concepts
 
 <div align="center">
 
-### 🦷 Consultorio
+## 🦷 Consultorio
 
-**Dental SaaS Platform**
-
-<br>
-
-A reusable backend platform designed for dental clinics.
+### `Dental SaaS`
 
 <br>
 
@@ -212,18 +212,21 @@ A reusable backend platform designed for dental clinics.
 
 <br><br>
 
-`Java 21` · `Spring Boot` · `PostgreSQL` · `Docker`
+A reusable backend platform for dental clinics.
 
-<br><br>
+**Focus**
 
-**Architecture**
-
-`REST API` · `Security` · `Multi-tenant`
+`Multi-tenant` · `Security`
 `Users` · `Schedules` · `Appointments`
+
+**Stack**
+
+`Java 21` · `Spring Boot`
+`PostgreSQL` · `Docker`
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-a855f7?style=flat-square&labelColor=0d1117"/>
+🟣 **ACTIVE DEVELOPMENT**
 
 </div>
 
@@ -233,13 +236,9 @@ A reusable backend platform designed for dental clinics.
 
 <div align="center">
 
-### 🛍️ Belomora
+## 🛍️ Belomora
 
-**E-Commerce Platform**
-
-<br>
-
-A custom fashion e-commerce platform built from scratch.
+### `E-Commerce`
 
 <br>
 
@@ -247,148 +246,89 @@ A custom fashion e-commerce platform built from scratch.
 
 <br><br>
 
-`Java` · `Spring Boot` · `React` · `PostgreSQL`
+A custom fashion e-commerce platform.
+
+**Focus**
+
+`Products` · `Cart` · `Orders`
+`Payments` · `Webhooks` · `JWT`
+
+**Stack**
+
+`Java` · `Spring Boot`
+`React` · `PostgreSQL`
+
+<br>
+
+💗 **ACTIVE DEVELOPMENT**
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       LEARNING                                 -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🌱 Currently Learning
+
+<br>
+
+<img src="https://img.shields.io/badge/Spring_Security-0d1117?style=for-the-badge&logo=springsecurity&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Microservices-0d1117?style=for-the-badge&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/System_Design-0d1117?style=for-the-badge&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Clean_Code-0d1117?style=for-the-badge&logoColor=22D3EE"/>
 
 <br><br>
 
-**Architecture**
-
-`Products` · `Cart` · `Orders`
-`Mercado Pago` · `Webhooks` · `JWT`
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-ec4899?style=flat-square&labelColor=0d1117"/>
+<sub>
+Always learning. Always building. Always breaking something first.
+</sub>
 
 </div>
 
-</td>
-
-</tr>
-</table>
-
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                       BACKEND                             -->
+<!--                     DEVELOPMENT LOOP                           -->
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🧩 Backend Playground
+## 🔄 The Development Loop
 
 <br>
 
-<table>
-<tr>
+`💡 Idea` → `🏗️ Design` → `☕ Code` → `🧪 Test` → `🐳 Containerize` → `🚀 Ship`
 
-<td align="center">
+<br><br>
 
-**API**
-
-<br>
-
-![REST](https://img.shields.io/badge/REST-7c3aed?style=for-the-badge\&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-0d1117?style=for-the-badge\&logo=json\&logoColor=38bdf8)
-![HTTP](https://img.shields.io/badge/HTTP-0d1117?style=for-the-badge\&logoColor=white)
-
-</td>
-
-<td align="center">
-
-**Persistence**
-
-<br>
-
-![JPA](https://img.shields.io/badge/JPA-0d1117?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-0d1117?style=for-the-badge\&logo=hibernate\&logoColor=bcae79)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge\&logoColor=38bdf8)
-
-</td>
-
-<td align="center">
-
-**Security**
-
-<br>
-
-![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge\&logo=jsonwebtokens\&logoColor=pink)
-![OAuth](https://img.shields.io/badge/Auth-0d1117?style=for-the-badge)
-
-</td>
-
-<td align="center">
-
-**DevOps**
-
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git\&logoColor=F05032)
-
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/BUILD-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/TEST-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/LEARN-38BDF8?style=flat-square"/>
+<img src="https://img.shields.io/badge/REPEAT-EC4899?style=flat-square"/>
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                    DEVELOPMENT LOOP                       -->
+<!--                      GITHUB STATS                              -->
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🔄 My Development Loop
-
-<br>
-
-```text
-        💡 IDEA
-           │
-           ▼
-      ┌──────────┐
-      │  DESIGN  │
-      └────┬─────┘
-           │
-           ▼
-      ┌──────────┐
-      │  CODE ☕ │
-      └────┬─────┘
-           │
-           ▼
-      ┌──────────┐
-      │  TEST 🧪 │
-      └────┬─────┘
-           │
-           ▼
-      ┌──────────┐
-      │ DOCKER 🐳│
-      └────┬─────┘
-           │
-           ▼
-      ┌──────────┐
-      │   SHIP 🚀│
-      └────┬─────┘
-           │
-           └──────────────► 🔁
-```
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                       GITHUB                              -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -396,31 +336,31 @@ A custom fashion e-commerce platform built from scratch.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=38bdf8&text_color=c9d1d9&ring_color=a855f7" height="170"/>
+<a href="https://github.com/edgarsanchez01">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsanchez01&layout=compact&hide_border=true&bg_color=0d1117&title_color=ec4899&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9&ring_color=A78BFA" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsanchez01&layout=compact&hide_border=true&bg_color=0d1117&title_color=EC4899&text_color=C9D1D9" height="170"/>
+
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edgarsanchez01&hide_border=true&background=0d1117&ring=A78BFA&fire=EC4899&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=6E7681" width="65%"/>
 
 </div>
 
 <br>
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edgarsanchez01&hide_border=true&background=0d1117&ring=8b5cf6&fire=ec4899&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=6e7681" width="65%"/>
+<!--                    CONTRIBUTIONS                               -->
 
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                         SNAKE                              -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🐍 Contribution Garden
+## 🐍 Contribution Trail
 
 <br>
 
@@ -441,67 +381,62 @@ A custom fashion e-commerce platform built from scratch.
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                         FUN ZONE                           -->
+<!--                         FUN                                    -->
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🐧 A Few Things About Me
+## 🐧 Outside the Code
 
 <br>
 
-|        ☕        |     🐧     |       🐳       |         🎧        |
-| :-------------: | :--------: | :------------: | :---------------: |
-| Java enthusiast | Linux user | Docker enjoyer | Coding with music |
+☕ Coffee   •  
+🐧 Linux   •  
+🎧 Music   •  
+🕹️ Pixel Art   •  
+🚀 Building Projects
 
-<br>
+<br><br>
 
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   "Build it. Break it. Understand it.               │
-│    Then build it better."                            │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
+> *Build it. Break it. Understand it. Build it better.*
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                         CONNECT                            -->
+<!--                         CONNECT                                -->
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🌐 Let's Connect
+## 🌐 Find Me
 
 <br>
 
 <a href="https://github.com/edgarsanchez01">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
  
 
 <a href="https://www.instagram.com/gread._.01/">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
  
 
 <a href="https://twitter.com/gread01">
-<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40&height=110&section=footer"/>
 
 </div>
