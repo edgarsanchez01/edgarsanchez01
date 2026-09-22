@@ -6,36 +6,47 @@
 
 <br>
 
----
-
-### `~/about`
+<!-- About Me -->
+<div align="center">
+  <img src="https://img.shields.io/badge/~/about_me-0d1117?style=for-the-badge&logoColor=7c3aed&color=0d1117&labelColor=161b22" height="28">
+</div>
 
 > `[SYS_INFO]` Backend Developer specialized in designing high-performance REST APIs, scalable services, and robust data architecture with **Java & Spring Boot**.
 
----
+<br>
 
-### `~/stack`
+<!-- Tech Stack -->
+<div align="center">
+  <img src="https://img.shields.io/badge/~/tech_stack-0d1117?style=for-the-badge&logoColor=a855f7&color=0d1117&labelColor=161b22" height="28">
+</div>
+
+<br>
 
 <div align="center">
 
-  **⚡ Core & Backend**  
+  ### ⚡ Core & Backend
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,oracle,docker" alt="Backend Stack" />
 
   <br>
 
-  **🛠️ Workflow & Environment**  
+  ### 🛠️ Workflow & Environment
   <img src="https://skillicons.dev/icons?i=linux,arch,idea,vscode,postman,maven,git,github" alt="Tools Stack" />
 
   <br>
 
-  **💻 Frontend Integration**  
+  ### 💻 Frontend Integration
   <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind" alt="Frontend Stack" />
 
 </div>
 
----
+<br>
 
-### `~/projects`
+<!-- Projects -->
+<div align="center">
+  <img src="https://img.shields.io/badge/~/featured_projects-0d1117?style=for-the-badge&logoColor=ec4899&color=0d1117&labelColor=161b22" height="28">
+</div>
+
+<br>
 
 <table align="center">
 <tr>
@@ -61,9 +72,14 @@
 </tr>
 </table>
 
----
+<br>
 
-### `~/github`
+<!-- GitHub Activity -->
+<div align="center">
+  <img src="https://img.shields.io/badge/~/github_activity-0d1117?style=for-the-badge&logoColor=3b82f6&color=0d1117&labelColor=161b22" height="28">
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cursor=true" width="48%" />
@@ -80,9 +96,14 @@
   </picture>
 </div>
 
----
+<br>
 
-### `~/connect`
+<!-- Connect -->
+<div align="center">
+  <img src="https://img.shields.io/badge/~/connect_with_me-0d1117?style=for-the-badge&logoColor=8b5cf6&color=0d1117&labelColor=161b22" height="28">
+</div>
+
+<br>
 
 <div align="center">
 
