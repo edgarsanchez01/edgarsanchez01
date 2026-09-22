@@ -6,47 +6,36 @@
 
 <br>
 
-<!-- About Me -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,18,30&height=32&section=header&text=USER%20PROFILE%20:%20EDGAR%20SÁNCHEZ&fontSize=16&fontColor=00FF66&animation=fadeIn&fontAlign=50" width="100%" />
-</div>
+---
+
+### `~/about`
 
 > `[SYS_INFO]` Backend Developer specialized in designing high-performance REST APIs, scalable services, and robust data architecture with **Java & Spring Boot**.
 
-<br>
+---
 
-<!-- Tech Stack -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,18,30&height=32&section=header&text=TECH%20STACK%20&%20TOOLS&fontSize=16&fontColor=3399FF&animation=fadeIn&fontAlign=50" width="100%" />
-</div>
-
-<br>
+### `~/stack`
 
 <div align="center">
 
-  ### ⚡ Core & Backend
+  **⚡ Core & Backend**  
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,oracle,docker" alt="Backend Stack" />
 
   <br>
 
-  ### 🛠️ Workflow & Environment
+  **🛠️ Workflow & Environment**  
   <img src="https://skillicons.dev/icons?i=linux,arch,idea,vscode,postman,maven,git,github" alt="Tools Stack" />
 
   <br>
 
-  ### 💻 Frontend Integration
+  **💻 Frontend Integration**  
   <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind" alt="Frontend Stack" />
 
 </div>
 
-<br>
+---
 
-<!-- Projects -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,18,30&height=32&section=header&text=FEATURED%20PROJECTS&fontSize=16&fontColor=FF007F&animation=fadeIn&fontAlign=50" width="100%" />
-</div>
-
-<br>
+### `~/projects`
 
 <table align="center">
 <tr>
@@ -72,14 +61,9 @@
 </tr>
 </table>
 
-<br>
+---
 
-<!-- GitHub Stats & Snake -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,18,30&height=32&section=header&text=GITHUB%20ACTIVITY&fontSize=16&fontColor=FFCC00&animation=fadeIn&fontAlign=50" width="100%" />
-</div>
-
-<br>
+### `~/github`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cursor=true" width="48%" />
@@ -96,14 +80,9 @@
   </picture>
 </div>
 
-<br>
+---
 
-<!-- Connect Channels -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,18,30&height=32&section=header&text=CONNECT%20WITH%20ME&fontSize=16&fontColor=9900FF&animation=fadeIn&fontAlign=50" width="100%" />
-</div>
-
-<br>
+### `~/connect`
 
 <div align="center">
 
