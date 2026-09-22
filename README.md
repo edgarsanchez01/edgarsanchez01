@@ -7,34 +7,42 @@
 <br>
 
 <!-- About Me -->
-<div align="center">
-  <img src="https://img.shields.io/badge/~/about_me-0d1117?style=for-the-badge&logoColor=7c3aed&color=0d1117&labelColor=161b22" height="28">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=430&lines=%24+whoami+%3A%3A+Backend+Developer;%24+focus+%3A%3A+Java+%26+Spring+Boot" alt="Typing SVG" />
+</p>
 
-> `[SYS_INFO]` Backend Developer specialized in designing high-performance REST APIs, scalable services, and robust data architecture with **Java & Spring Boot**.
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <code>[SYS_INFO]</code> Backend Developer specialized in designing high-performance REST APIs, scalable services, and robust data architecture with <b>Java & Spring Boot</b>.
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
 <!-- Tech Stack -->
 <div align="center">
-  <img src="https://img.shields.io/badge/~/tech_stack-0d1117?style=for-the-badge&logoColor=a855f7&color=0d1117&labelColor=161b22" height="28">
+  <img src="https://img.shields.io/badge/⚡_%2F_TECH_STACK_%26_ENVIRONMENT-161b22?style=for-the-badge&logoColor=a855f7&color=0d1117&labelColor=161b22&border_color=30363d" alt="Tech Stack">
 </div>
 
 <br>
 
 <div align="center">
 
-  ### ⚡ Core & Backend
+  ### Core & Backend
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,oracle,docker" alt="Backend Stack" />
 
   <br>
 
-  ### 🛠️ Workflow & Environment
+  ### Workflow & Environment
   <img src="https://skillicons.dev/icons?i=linux,arch,idea,vscode,postman,maven,git,github" alt="Tools Stack" />
 
   <br>
 
-  ### 💻 Frontend Integration
+  ### Frontend Integration
   <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind" alt="Frontend Stack" />
 
 </div>
@@ -43,7 +51,7 @@
 
 <!-- Projects -->
 <div align="center">
-  <img src="https://img.shields.io/badge/~/featured_projects-0d1117?style=for-the-badge&logoColor=ec4899&color=0d1117&labelColor=161b22" height="28">
+  <img src="https://img.shields.io/badge/🚀_%2F_FEATURED_PROJECTS-161b22?style=for-the-badge&logoColor=ec4899&color=0d1117&labelColor=161b22" alt="Projects">
 </div>
 
 <br>
@@ -76,7 +84,7 @@
 
 <!-- GitHub Activity -->
 <div align="center">
-  <img src="https://img.shields.io/badge/~/github_activity-0d1117?style=for-the-badge&logoColor=3b82f6&color=0d1117&labelColor=161b22" height="28">
+  <img src="https://img.shields.io/badge/📊_%2F_GITHUB_ACTIVITY-161b22?style=for-the-badge&logoColor=3b82f6&color=0d1117&labelColor=161b22" alt="Activity">
 </div>
 
 <br>
@@ -100,7 +108,7 @@
 
 <!-- Connect -->
 <div align="center">
-  <img src="https://img.shields.io/badge/~/connect_with_me-0d1117?style=for-the-badge&logoColor=8b5cf6&color=0d1117&labelColor=161b22" height="28">
+  <img src="https://img.shields.io/badge/🌐_%2F_CONNECT_WITH_ME-161b22?style=for-the-badge&logoColor=8b5cf6&color=0d1117&labelColor=161b22" alt="Connect">
 </div>
 
 <br>
