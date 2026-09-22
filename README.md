@@ -1,11 +1,7 @@
 <!-- Header -->
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/main/assets/header.png"
-    width="100%"
-    alt="Edgar Sanchez — Backend Developer"
-  />
+  <img src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/main/assets/header.png" width="100%" alt="Edgar Sanchez — Backend Developer" />
 </div>
 
 <br>
@@ -83,18 +79,9 @@ E-commerce platform with product, cart, order and payment workflows.
 ### `~/github`
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg"
-  >
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
