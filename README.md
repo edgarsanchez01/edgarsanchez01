@@ -24,25 +24,25 @@
 <br>
 
 <!-- Tech Stack -->
-<div align="center">
-  <img src="https://img.shields.io/badge/⚡_%2F_TECH_STACK_%26_ENVIRONMENT-161b22?style=for-the-badge&logoColor=a855f7&color=0d1117&labelColor=161b22&border_color=30363d" alt="Tech Stack">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=%24+neofetch+--tech-stack;%24+loading+core+modules..." alt="Tech Stack Typing" />
+</p>
 
 <br>
 
 <div align="center">
 
-  ### Core & Backend
+  ### ⚡ Core & Backend
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,oracle,docker" alt="Backend Stack" />
 
   <br>
 
-  ### Workflow & Environment
+  ### 🛠️ Workflow & Environment
   <img src="https://skillicons.dev/icons?i=linux,arch,idea,vscode,postman,maven,git,github" alt="Tools Stack" />
 
   <br>
 
-  ### Frontend Integration
+  ### 💻 Frontend Integration
   <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind" alt="Frontend Stack" />
 
 </div>
@@ -50,9 +50,9 @@
 <br>
 
 <!-- Projects -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀_%2F_FEATURED_PROJECTS-161b22?style=for-the-badge&logoColor=ec4899&color=0d1117&labelColor=161b22" alt="Projects">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=EC4899&center=true&vCenter=true&width=450&lines=%24+git+log+--featured-projects;%24+status+%3A%3A+production+ready" alt="Projects Typing" />
+</p>
 
 <br>
 
@@ -83,9 +83,9 @@
 <br>
 
 <!-- GitHub Activity -->
-<div align="center">
-  <img src="https://img.shields.io/badge/📊_%2F_GITHUB_ACTIVITY-161b22?style=for-the-badge&logoColor=3b82f6&color=0d1117&labelColor=161b22" alt="Activity">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=%24+git+stats+--activity;%24+fetching+contributions..." alt="Activity Typing" />
+</p>
 
 <br>
 
@@ -107,9 +107,9 @@
 <br>
 
 <!-- Connect -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🌐_%2F_CONNECT_WITH_ME-161b22?style=for-the-badge&logoColor=8b5cf6&color=0d1117&labelColor=161b22" alt="Connect">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=450&lines=%24+ping+--connect;%24+establishing+secure+channel..." alt="Connect Typing" />
+</p>
 
 <br>
 
