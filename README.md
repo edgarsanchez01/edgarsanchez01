@@ -6,65 +6,67 @@
 
 <br>
 
-<!-- About -->
-
+<!-- About Me -->
 <div align="center">
-
-### `~/about`
-
-Backend Developer focused on building **REST APIs, backend services and data-driven applications** with Java and Spring Boot.
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,18,30&height=32&section=header&text=USER%20PROFILE%20:%20EDGAR%20SÁNCHEZ&fontSize=16&fontColor=00FF66&animation=fadeIn&fontAlign=50" width="100%" />
 </div>
+
+> `[SYS_INFO]` Backend Developer specialized in designing high-performance REST APIs, scalable services, and robust data architecture with **Java & Spring Boot**.
 
 <br>
 
 <!-- Tech Stack -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,18,30&height=32&section=header&text=TECH%20STACK%20&%20TOOLS&fontSize=16&fontColor=3399FF&animation=fadeIn&fontAlign=50" width="100%" />
+</div>
+
+<br>
 
 <div align="center">
 
-### `~/stack`
+  ### ⚡ Core & Backend
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,oracle,docker" alt="Backend Stack" />
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,linux,maven,git,github" />
+  <br>
 
-<br><br>
+  ### 🛠️ Workflow & Environment
+  <img src="https://skillicons.dev/icons?i=linux,arch,idea,vscode,postman,maven,git,github" alt="Tools Stack" />
 
-<img src="https://skillicons.dev/icons?i=idea,vscode,postman,react,angular" />
+  <br>
+
+  ### 💻 Frontend Integration
+  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind" alt="Frontend Stack" />
 
 </div>
 
 <br>
 
 <!-- Projects -->
-
 <div align="center">
-
-### `~/projects`
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,18,30&height=32&section=header&text=FEATURED%20PROJECTS&fontSize=16&fontColor=FF007F&animation=fadeIn&fontAlign=50" width="100%" />
 </div>
+
+<br>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🦷 Consultorio
+### 🦷 Consultorio SaaS
+> **Plataforma multi-inquilino** optimizada para la gestión clínica y control eficiente de pacientes.
 
-Reusable backend platform for dental clinics.
-
-**Stack**
-
-`Java` `Spring Boot` `PostgreSQL` `JPA` `Security`
+* **Arquitectura:** Módulos desacoplados y seguros.
+* **Stack:** `Java 21` `Spring Boot` `PostgreSQL` `Docker`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛍️ Belomora
+### 🛍️ Belomora E-Commerce
+> **Tienda online de moda** con procesamiento de órdenes, carrito y pasarela de pagos integrada.
 
-E-commerce platform with product, cart, order and payment workflows.
-
-**Stack**
-
-`Java` `Spring Boot` `PostgreSQL` `React` `Mercado Pago`
+* **Flujos:** Gestión completa de stock y pagos webhooks.
+* **Stack:** `Java` `Spring Boot` `React` `Mercado Pago`
 
 </td>
 </tr>
@@ -72,38 +74,49 @@ E-commerce platform with product, cart, order and payment workflows.
 
 <br>
 
-<!-- GitHub -->
-
+<!-- GitHub Stats & Snake -->
 <div align="center">
-
-### `~/github`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,18,30&height=32&section=header&text=GITHUB%20ACTIVITY&fontSize=16&fontColor=FFCC00&animation=fadeIn&fontAlign=50" width="100%" />
 </div>
 
 <br>
 
-<!-- Connect -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cursor=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsanchez01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<!-- Connect Channels -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,18,30&height=32&section=header&text=CONNECT%20WITH%20ME&fontSize=16&fontColor=9900FF&animation=fadeIn&fontAlign=50" width="100%" />
+</div>
+
+<br>
 
 <div align="center">
 
-### `~/connect`
-
-<a href="https://github.com/edgarsanchez01">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/edgarsanchez01" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-&nbsp;
-<a href="https://www.instagram.com/gread._.01/">
-  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white">
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/gread._.01/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-&nbsp;
-<a href="https://twitter.com/gread01">
-  <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white">
+&nbsp;&nbsp;
+<a href="https://twitter.com/gread01" target="_blank">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
 </a>
 
 </div>
