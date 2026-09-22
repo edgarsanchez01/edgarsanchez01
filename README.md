@@ -84,16 +84,16 @@ scalable services, and robust data architecture with <span style="color: #38bdf8
 <div align="center">
   <pre><code><span style="color: #a855f7;">┌─[</span> <span style="color: #38bdf8;">edgar@github</span> <span style="color: #a855f7;">]─[</span> <span style="color: #ec4899;">~/stats</span> <span style="color: #a855f7;">]</span>
 └──╼ <span style="color: #22c55e;">$</span> gh stats --activity-stream</code></pre>
-</div>
-
-<br>
-
-<div align="center">
+  
+  <br>
+  
+  <!-- Badges de Estadísticas Seguras -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsanchez01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </p>
 </div>
 
