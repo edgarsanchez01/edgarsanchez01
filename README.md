@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="./assets/header.png"
+    src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/main/assets/header.png"
     width="100%"
     alt="Edgar Sanchez — Backend Developer"
   />
