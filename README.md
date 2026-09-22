@@ -1,12 +1,14 @@
 <!-- ========================================================= -->
 
-<!--                         HEADER                            -->
+<!--                    EDGAR SÁNCHEZ                          -->
+
+<!--              LINUX / BACKEND DASHBOARD                    -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/main/assets/header.png" width="100%" alt="Edgar Sanchez — Backend Developer"/>
+<img src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/main/assets/header.png" width="100%" alt="Edgar Sánchez — Backend Developer"/>
 
 </div>
 
@@ -14,32 +16,19 @@
 
 <!-- ========================================================= -->
 
-<!--                    TERMINAL INTRO                         -->
+<!--                       STATUS BAR                          -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
 ```text
-┌──[ edgar@github ]─[ ~/about-me ]─────────────────────────────┐
-│                                                              │
-│  $ whoami                                                    │
-│                                                              │
-│  Edgar Sánchez                                               │
-│  Backend Developer                                           │
-│                                                              │
-│  $ cat profile.txt                                           │
-│                                                              │
-│  Java backend developer focused on building REST APIs,       │
-│  backend services and data-driven applications.              │
-│                                                              │
-│  Currently working with Java, Spring Boot, PostgreSQL,       │
-│  Docker and Linux.                                           │
-│                                                              │
-│  $ echo $STATUS                                               │
-│  Building • Learning • Improving                             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────────────────────╮
+│  edgar@github  ~/backend  │  JAVA 21  │  SPRING BOOT  │  LINUX      │
+│  ──────────────────────────┴───────────┴───────────────┴───────────── │
+│                                                                      │
+│                         ● SYSTEM ONLINE                              │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
 
 </div>
@@ -48,153 +37,215 @@
 
 <!-- ========================================================= -->
 
-<!--                       STACK                               -->
+<!--                    ABOUT / TERMINAL                       -->
 
 <!-- ========================================================= -->
 
-<div align="center">
-
-<h2>⚡ TECH STACK</h2>
-
-<br>
-
-<h3>Backend</h3>
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
-
-<br><br>
-
-<h3>Databases & Infrastructure</h3>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,docker" />
-
-<br><br>
-
-<h3>Development Environment</h3>
-
-<img src="https://skillicons.dev/icons?i=linux,arch,git,github,idea,vscode,postman" />
-
-<br><br>
-
-<h3>Frontend Integration</h3>
-
-<img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css,tailwind" />
-
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-
-<!--                 CURRENTLY BUILDING                       -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-<h2>🛠️ CURRENTLY BUILDING</h2>
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
 
-### 🦷 Dental SaaS
+<td width="58%" valign="top">
 
-A reusable backend platform designed for dental clinics.
+## `~/about`
 
 ```text
-Java 21
-Spring Boot
-Spring Security
-PostgreSQL
-Docker
-REST API
-Multi-tenant architecture
+┌──[ edgar@github ]─[ ~/about ]──────────────────────┐
+│                                                    │
+│  $ whoami                                          │
+│                                                    │
+│  Edgar Sánchez                                     │
+│  Backend Developer                                 │
+│                                                    │
+│  $ cat profile.txt                                 │
+│                                                    │
+│  Building backend systems with Java & Spring Boot. │
+│  Focused on REST APIs, persistence, data and       │
+│  maintainable service architecture.                │
+│                                                    │
+│  $ echo $CURRENT_STATUS                            │
+│                                                    │
+│  Building → Learning → Improving                   │
+│                                                    │
+└────────────────────────────────────────────────────┘
 ```
-
-> Focused on clinic management, users, schedules and appointments.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### 🛍️ Belomora
+## `system.info`
 
-E-commerce platform built from scratch instead of relying entirely on Shopify.
+```text
+┌──────────────────────────────┐
+│ SYSTEM INFORMATION           │
+├──────────────────────────────┤
+│                              │
+│ USER       edgar             │
+│ ROLE       backend           │
+│ JVM        Java 21           │
+│ OS         Linux             │
+│ DISTRO     EndeavourOS       │
+│ SHELL      Bash              │
+│ EDITOR     IntelliJ IDEA     │
+│                              │
+│ STATUS     ● ONLINE          │
+│                              │
+└──────────────────────────────┘
+```
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ========================================================= -->
+
+<!--                       CORE STACK                          -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+# `⚡ CORE STACK`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,oracle,mysql,docker&perline=8" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JAVA_21-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/SPRING_BOOT-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/DOCKER-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/LINUX-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+
+<!--                     ENGINEERING MAP                       -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+# `🧩 ENGINEERING MAP`
+
+</div>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### ☕ BACKEND
 
 ```text
 Java
 Spring Boot
-PostgreSQL
-React
-Mercado Pago
-Docker
-REST API
-Webhooks
+Spring Security
+Spring Data JPA
+Hibernate
+REST APIs
+DTO / Mapper
+Microservices
+JWT
 ```
 
-> Backend-first architecture with product, cart, order and payment flows.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ========================================================= -->
-
-<!--                    ENGINEERING                            -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-<h2>🧩 WHAT I WORK WITH</h2>
-
-</div>
-
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-### ☕ Backend
-
-REST APIs
-Spring Boot
-Spring Security
-JPA / Hibernate
-DTOs & Mappers
-Microservices
-
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### 🗄️ Data
+### 🗄️ DATA
 
+```text
 PostgreSQL
 Oracle
 MySQL
 SQL
-Data modeling
+JPA
+Database Design
 Persistence
+Transactions
+```
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### 🐧 Environment
+### 🐧 ENVIRONMENT
 
+```text
 Linux
 Docker
 Git
+GitHub
 Maven
 IntelliJ IDEA
 Postman
+Bash
+```
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 🌐 INTEGRATION
+
+```text
+REST
+Webhooks
+JSON
+HTTP
+Authentication
+External APIs
+Payment APIs
+Service Integration
+```
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎨 FRONTEND
+
+```text
+React
+Angular
+TypeScript
+JavaScript
+HTML
+CSS
+Tailwind
+```
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 CURRENT FOCUS
+
+```text
+Spring Security
+Microservices
+System Design
+Docker
+Cloud Concepts
+Backend Architecture
+Clean Code
+```
+
+</td>
+
 </tr>
 </table>
 
@@ -202,13 +253,179 @@ Postman
 
 <!-- ========================================================= -->
 
-<!--                    GITHUB ACTIVITY                        -->
+<!--                    CURRENT MISSION                        -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-<h2>📊 GITHUB ACTIVITY</h2>
+# `🚧 CURRENT MISSION`
+
+```text
+╭────────────────────────────────────────────────────────────────────╮
+│                                                                    │
+│  [01] BUILD                                                        │
+│                                                                    │
+│      Backend systems that solve real problems.                     │
+│                                                                    │
+│  [02] ARCHITECT                                                    │
+│                                                                    │
+│      Modular services with clear responsibilities.                 │
+│                                                                    │
+│  [03] LEARN                                                        │
+│                                                                    │
+│      Deepen Java, Spring, security and distributed systems.        │
+│                                                                    │
+│  [04] SHIP                                                         │
+│                                                                    │
+│      Turn ideas into working software.                             │
+│                                                                    │
+╰────────────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+
+<!--                       PROJECTS                            -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+# `🚀 FEATURED PROJECTS`
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🦷 `CONSULTORIO`
+
+### Dental SaaS Platform
+
+```text
+TYPE
+└── Multi-tenant SaaS
+
+BACKEND
+├── Java 21
+├── Spring Boot
+├── Spring Security
+├── Spring Data JPA
+└── REST API
+
+INFRASTRUCTURE
+├── PostgreSQL
+└── Docker
+
+STATUS
+└── ● ACTIVE DEVELOPMENT
+```
+
+A reusable backend platform designed around the needs of dental clinics, with a focus on modular architecture, users, schedules and appointments.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛍️ `BELOMORA`
+
+### E-Commerce Platform
+
+```text
+TYPE
+└── E-Commerce
+
+BACKEND
+├── Java
+├── Spring Boot
+├── Spring Security
+└── REST API
+
+FRONTEND
+├── React
+└── TypeScript
+
+INTEGRATIONS
+├── Mercado Pago
+└── Webhooks
+
+STATUS
+└── ● ACTIVE DEVELOPMENT
+```
+
+An e-commerce platform built with a backend-first approach, including products, cart, orders and payment integration.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ========================================================= -->
+
+<!--                    ARCHITECTURE                           -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+# `🏗️ BACKEND MINDSET`
+
+</div>
+
+<div align="center">
+
+```text
+                         ┌──────────────────┐
+                         │     CLIENT       │
+                         │ Web / Mobile     │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │    REST API      │
+                         │  Controllers     │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │     SERVICE      │
+                         │ Business Logic   │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │   REPOSITORY     │
+                         │   Persistence    │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │    DATABASE      │
+                         │ PostgreSQL / SQL │
+                         └──────────────────┘
+```
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+
+<!--                       GITHUB                              -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+# `📡 GITHUB ACTIVITY`
 
 <br>
 
@@ -220,23 +437,15 @@ Postman
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edgarsanchez01&hide_border=true&background=0d1117&ring=c084fc&fire=38bdf8&currStreakLabel=c084fc&sideLabels=c9d1d9&dates=6e7681" width="60%"/>
-
-</div>
-
-<br>
-
 <!-- ========================================================= -->
 
-<!--                  CONTRIBUTION SNAKE                       -->
+<!--                    CONTRIBUTIONS                          -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-<h2>🐍 CONTRIBUTION GRAPH</h2>
+# `🐍 CONTRIBUTION MATRIX`
 
 <br>
 
@@ -244,13 +453,14 @@ Postman
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg">
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg">
-</picture>
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg">
+
+<img
+ alt="GitHub contribution snake"
+ src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg"> </picture>
 
 </div>
 
@@ -265,27 +475,30 @@ Postman
 <div align="center">
 
 ```text
-┌──[ edgar@github ]─[ ~/terminal ]─────────────────────────────┐
-│                                                              │
-│  $ java --version                                            │
-│  Java 21                                                     │
-│                                                              │
-│  $ framework --current                                       │
-│  Spring Boot                                                  │
-│                                                              │
-│  $ database --primary                                        │
-│  PostgreSQL                                                   │
-│                                                              │
-│  $ environment                                                │
-│  Linux / Arch                                                 │
-│                                                              │
-│  $ docker ps                                                  │
-│  backend    postgres    services                              │
-│                                                              │
-│  $ status                                                     │
-│  ● online                                                     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌──[ edgar@github ]─[ ~/terminal ]───────────────────────────────────┐
+│                                                                    │
+│  $ java --version                                                  │
+│  openjdk 21                                                        │
+│                                                                    │
+│  $ spring --framework                                              │
+│  Spring Boot                                                        │
+│                                                                    │
+│  $ database --primary                                              │
+│  PostgreSQL                                                         │
+│                                                                    │
+│  $ container --runtime                                             │
+│  Docker                                                             │
+│                                                                    │
+│  $ operating-system                                                │
+│  EndeavourOS / Linux                                                │
+│                                                                    │
+│  $ git status                                                       │
+│  On branch main                                                     │
+│  Your backend is ready.                                            │
+│                                                                    │
+│  $ _                                                               │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -294,38 +507,54 @@ Postman
 
 <!-- ========================================================= -->
 
-<!--                        CONNECT                            -->
+<!--                         CONNECT                            -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-<h2>🌐 CONNECT</h2>
+# `🌐 CONNECT`
 
 <br>
 
 <a href="https://github.com/edgarsanchez01">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
  
 
 <a href="https://www.instagram.com/gread._.01/">
-  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=ffffff"/>
 </a>
 
  
 
 <a href="https://twitter.com/gread01">
-  <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff"/>
 </a>
 
 <br><br>
 
 ```text
-$ exit
+╭──────────────────────────────────────────────╮
+│                                              │
+│   Thanks for visiting my GitHub.             │
+│                                              │
+│   $ exit                                     │
+│                                              │
+│   Connection closed.                         │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
 
-Thanks for stopping by.
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+JAVA • SPRING BOOT • POSTGRESQL • DOCKER • LINUX
 ```
 
 </div>
