@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                          HERO                                   -->
+<!--                          HERO                                  -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -64,7 +64,7 @@ I'm continuously learning how to design cleaner, more maintainable and reliable 
 │  ☕  JVM                │
 │      Java 21            │
 │                         │
-│  🐧  OS                │
+│  🐧  OS                 │
 │      Linux              │
 │                         │
 │  📦  CONTAINERS         │
@@ -111,7 +111,7 @@ I'm continuously learning how to design cleaner, more maintainable and reliable 
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                       WHAT I BUILD                              -->
+<!--                       WHAT I BUILD                             -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -183,7 +183,7 @@ Environment setup
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                        PROJECTS                                 -->
+<!--                        PROJECTS                                -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -273,7 +273,7 @@ A custom fashion e-commerce platform.
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                       LEARNING                                 -->
+<!--                       LEARNING                                -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -301,7 +301,7 @@ Always learning. Always building. Always breaking something first.
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                     DEVELOPMENT LOOP                           -->
+<!--                     DEVELOPMENT LOOP                          -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -326,7 +326,7 @@ Always learning. Always building. Always breaking something first.
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                      GITHUB STATS                              -->
+<!--                      GITHUB STATS                             -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -354,7 +354,7 @@ Always learning. Always building. Always breaking something first.
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                    CONTRIBUTIONS                               -->
+<!--                    CONTRIBUTIONS                              -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -365,17 +365,20 @@ Always learning. Always building. Always breaking something first.
 <br>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake-dark.svg">
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake-dark.svg">
 
 <source
  media="(prefers-color-scheme: light)"
  srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg">
 
 <img
- alt="GitHub contribution snake"
- src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg"> </picture>
+ src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg"
+ alt="GitHub contribution snake">
+
+</picture>
 
 </div>
 
@@ -393,15 +396,19 @@ Always learning. Always building. Always breaking something first.
 
 <br>
 
-☕ Coffee   •  
-🐧 Linux   •  
-🎧 Music   •  
-🕹️ Pixel Art   •  
+☕ Coffee  • 
+🐧 Linux  • 
+🎧 Music  • 
+🕹️ Pixel Art  • 
 🚀 Building Projects
 
 <br><br>
 
 > *Build it. Break it. Understand it. Build it better.*
+
+<br>
+
+<sub>Thanks for stopping by 👾</sub>
 
 </div>
 
@@ -409,7 +416,7 @@ Always learning. Always building. Always breaking something first.
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                         CONNECT                                -->
+<!--                         CONNECT                               -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -419,24 +426,18 @@ Always learning. Always building. Always breaking something first.
 
 <br>
 
-<a href="https://github.com/edgarsanchez01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/edgar-sanchez01/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
- 
+  
 
 <a href="https://www.instagram.com/gread._.01/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://twitter.com/gread01">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=EC4899"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40&height=110&section=footer"/>
+<sub>☕ Built with Java · 🌱 Spring · 🐧 Linux · 💜 curiosity</sub>
 
 </div>
