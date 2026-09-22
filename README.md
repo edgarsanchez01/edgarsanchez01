@@ -430,6 +430,6 @@ Always learning. Always building. Always breaking something first.
 
 <br><br>
 
-<sub>☕ Built with Java · 🌱 Spring · 🐧 Linux · 💜 curiosity</sub>
+<sub>☕ Built with Java · 🌱 Spring · 🐧 Linux · 🤓 curiosity</sub>
 
 </div>
