@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/🐳_DOCKER-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
 <img src="https://img.shields.io/badge/🐧_LINUX-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" /></div>
 <!-- INTRO -->
-<table>
+<table width="100%">
 <tr>
 <td width="65%" valign="top"><h2>👋 Hey, I'm Edgar</h2><p>I'm a <strong>Backend Developer</strong> focused on building applications with the Java ecosystem.</p><p>I enjoy working on the parts users don't always see:</p><p><strong>APIs · business logic · databases · authentication · integrations · architecture</strong></p><p>My main stack revolves around:</p><blockquote>☕ <strong>Java</strong> + 🌱 <strong>Spring Boot</strong> + 🐘 <strong>PostgreSQL</strong> + 🐳 <strong>Docker</strong></blockquote><p>I'm continuously learning how to design cleaner, more maintainable and reliable backend systems.</p></td>
 <td width="35%" valign="top"><pre>╭─────────────────────────╮
@@ -37,9 +37,7 @@
 </tr>
 </table>
 <!-- STACK -->
-<div align="center">🧰 Technologies I Use
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,oracle,docker&perline=8" alt="Backend and database technologies" />
+<div align="center"><h2 align="center">🧰 Technologies I Use</h2><img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,oracle,docker&perline=8" alt="Backend and database technologies" />
 
 
 <img src="https://skillicons.dev/icons?i=linux,arch,git,github,idea,vscode,postman,bash&perline=8" alt="Infrastructure and development tools" />
@@ -48,8 +46,7 @@
 <sub>Backend • Databases • Infrastructure • Development Tools</sub>
 </div>
 <!-- WHAT I BUILD -->
-<div align="center">🧩 What I Build
-</div><table>
+<div align="center"><h2 align="center">🧩 What I Build</h2></div><table width="100%">
 <tr>
 <td align="center" width="25%" valign="top">
 <h3>🔌</h3>
@@ -90,8 +87,7 @@ Environment setup
 </tr>
 </table>
 <!-- PROJECTS -->
-<div align="center">🚀 Things I'm Building
-</div><table>
+<div align="center"><h2 align="center">🚀 Things I'm Building</h2></div><table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 <h2>🦷 Consultorio</h2>
@@ -106,7 +102,6 @@ Environment setup
 <p><strong>Stack</strong></p>
 <p><code>Java 21</code> · <code>Spring Boot</code><br>
 <code>PostgreSQL</code> · <code>Docker</code></p>
-<br>
 <p>🟣 <strong>ACTIVE DEVELOPMENT</strong></p>
 </td>
 <td width="50%" align="center" valign="top">
@@ -122,15 +117,12 @@ Environment setup
 <p><strong>Stack</strong></p>
 <p><code>Java</code> · <code>Spring Boot</code><br>
 <code>React</code> · <code>PostgreSQL</code></p>
-<br>
 <p>💗 <strong>ACTIVE DEVELOPMENT</strong></p>
 </td>
 </tr>
 </table>
 <!-- LEARNING -->
-<div align="center">🌱 Currently Learning
-
-<img src="https://img.shields.io/badge/Spring_Security-0d1117?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" />
+<div align="center"><h2 align="center">🌱 Currently Learning</h2><img src="https://img.shields.io/badge/Spring_Security-0d1117?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" />
 <img src="https://img.shields.io/badge/Microservices-0d1117?style=for-the-badge&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/System_Design-0d1117?style=for-the-badge&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
@@ -140,10 +132,7 @@ Environment setup
 <sub>Always learning. Always building. Always breaking something first.</sub>
 </div>
 <!-- DEVELOPMENT LOOP -->
-<div align="center">🔄 The Development Loop
-
-💡 Idea → 🏗️ Design → ☕ Code → 🧪 Test → 🐳 Containerize → 🚀 Ship
-
+<div align="center"><h2 align="center">🔄 The Development Loop</h2><p>💡 Idea → 🏗️ Design → ☕ Code → 🧪 Test → 🐳 Containerize → 🚀 Ship</p>
 
 
 <img src="https://img.shields.io/badge/BUILD-7C3AED?style=flat-square" />
@@ -151,9 +140,7 @@ Environment setup
 <img src="https://img.shields.io/badge/LEARN-38BDF8?style=flat-square" />
 <img src="https://img.shields.io/badge/REPEAT-EC4899?style=flat-square" /></div>
 <!-- GITHUB STATS -->
-<div align="center">📊 GitHub Activity
-
-<a href="https://github.com/edgarsanchez01"><img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=38BDF8&text_color=F0F6FC&ring_color=A78BFA&include_all_commits=true" height="180" alt="Edgar's GitHub stats" /></a>
+<div align="center"><h2 align="center">📊 GitHub Activity</h2><a href="https://github.com/edgarsanchez01"><img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=38BDF8&text_color=F0F6FC&ring_color=A78BFA&include_all_commits=true" height="180" alt="Edgar's GitHub stats" /></a>
 <a href="https://github.com/edgarsanchez01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsanchez01&layout=compact&hide_border=true&bg_color=0d1117&title_color=EC4899&text_color=F0F6FC" height="180" alt="Top programming languages" /></a>
 
 
@@ -168,20 +155,14 @@ Environment setup
 </picture>
 </div>
 <!-- FUN -->
-<div align="center">🐧 Outside the Code
-
-☕ Coffee  •  🐧 Linux  •  🎧 Music  •  🕹️ Pixel Art  •  🚀 Building Projects
+<div align="center"><h2 align="center">🐧 Outside the Code</h2><p>☕ Coffee &nbsp;•&nbsp; 🐧 Linux &nbsp;•&nbsp; 🎧 Music &nbsp;•&nbsp; 🕹️ Pixel Art &nbsp;•&nbsp; 🚀 Building Projects</p>
 
 
-
-Build it. Break it. Understand it. Build it better.
-
+<p><em>Build it. Break it. Understand it. Build it better.</em></p>
 <sub>Thanks for stopping by 👾</sub>
 </div>
 <!-- CONNECT -->
-<div align="center">🌐 Find Me
-
-<a href="https://www.linkedin.com/in/edgar-sanchez01/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+<div align="center"><h2 align="center">🌐 Find Me</h2><a href="https://www.linkedin.com/in/edgar-sanchez01/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
   
 <a href="https://www.instagram.com/gread._.01/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=EC4899" alt="Instagram" /></a>
 
