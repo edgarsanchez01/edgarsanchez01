@@ -18,10 +18,10 @@
 │       SYSTEM.INFO       │
 ├─────────────────────────┤
 │                         │
-│  👨‍💻  ROLE              │
+│  👨‍💻  ROLE               │
 │      Backend Developer  │
 │                         │
-│  ☕  JVM                │
+│  ☕  JVM                 │
 │      Java 21            │
 │                         │
 │  🐧  OS                 │
@@ -46,7 +46,8 @@
 <sub>Backend • Databases • Infrastructure • Development Tools</sub>
 </div>
 <!-- WHAT I BUILD -->
-<div align="center"><h2 align="center">🧩 What I Build</h2></div><table width="100%">
+<div align="center"><h2 align="center">🧩 What I Build</h2></div><div align="center">
+<table>
 <tr>
 <td align="center" width="25%" valign="top">
 <h3>🔌</h3>
@@ -86,8 +87,10 @@ Environment setup
 </td>
 </tr>
 </table>
+</div>
 <!-- PROJECTS -->
-<div align="center"><h2 align="center">🚀 Things I'm Building</h2></div><table width="100%">
+<div align="center"><h2 align="center">🚀 Things I'm Building</h2></div><div align="center">
+<table>
 <tr>
 <td width="50%" align="center" valign="top">
 <h2>🦷 Consultorio</h2>
@@ -121,6 +124,7 @@ Environment setup
 </td>
 </tr>
 </table>
+</div>
 <!-- LEARNING -->
 <div align="center"><h2 align="center">🌱 Currently Learning</h2><img src="https://img.shields.io/badge/Spring_Security-0d1117?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" />
 <img src="https://img.shields.io/badge/Microservices-0d1117?style=for-the-badge&logoColor=A78BFA" />
@@ -140,12 +144,7 @@ Environment setup
 <img src="https://img.shields.io/badge/LEARN-38BDF8?style=flat-square" />
 <img src="https://img.shields.io/badge/REPEAT-EC4899?style=flat-square" /></div>
 <!-- GITHUB STATS -->
-<div align="center"><h2 align="center">📊 GitHub Activity</h2><a href="https://github.com/edgarsanchez01"><img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=38BDF8&text_color=F0F6FC&ring_color=A78BFA&include_all_commits=true" height="180" alt="Edgar's GitHub stats" /></a>
-<a href="https://github.com/edgarsanchez01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsanchez01&layout=compact&hide_border=true&bg_color=0d1117&title_color=EC4899&text_color=F0F6FC" height="180" alt="Top programming languages" /></a>
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edgarsanchez01&hide_border=true&background=0d1117&ring=A78BFA&fire=EC4899&currStreakLabel=38BDF8&sideLabels=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" width="65%" alt="GitHub contribution streak" /></div>
+<div align="center"><h2 align="center">📊 GitHub Activity</h2><!-- Las dos tarjetas de github-readme-stats se omiten porque actualmente no cargan en GitHub. --><img src="https://github-readme-streak-stats.herokuapp.com/?user=edgarsanchez01&hide_border=true&background=0d1117&ring=A78BFA&fire=EC4899&currStreakLabel=38BDF8&sideLabels=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" width="65%" alt="GitHub contribution streak" /></div>
 <!-- CONTRIBUTIONS -->
 <div align="center">
 <picture>
