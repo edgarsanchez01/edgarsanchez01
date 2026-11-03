@@ -1,59 +1,20 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HERO -->
+<div align="center"><img src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/main/assets/header.gif" width="100%" alt="Edgar Sánchez — Backend Developer" />
 
-<!--                          HERO                                  -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=Backend+Developer+%E2%98%95;Java+%7C+Spring+Boot+%7C+PostgreSQL;Linux+%7C+Docker+%7C+REST+APIs;Turning+ideas+into+working+software+%F0%9F%9A%80" alt="Typing animation" />
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/main/assets/header.gif" width="100%" alt="Edgar Sánchez — Backend Developer"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=Backend+Developer+%E2%98%95;Java+%7C+Spring+Boot+%7C+PostgreSQL;Linux+%7C+Docker+%7C+REST+APIs;Turning+ideas+into+working+software+%F0%9F%9A%80" alt="Typing animation"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/☕_JAVA-21-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/🌱_SPRING-BOOT-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/🐘_POSTGRESQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/🐳_DOCKER-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/🐧_LINUX-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                         INTRO                                  -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<img src="https://img.shields.io/badge/☕_JAVA-21-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/🌱_SPRING-BOOT-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/🐘_POSTGRESQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/🐳_DOCKER-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/🐧_LINUX-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" /></div>
+<!-- INTRO -->
 <table>
 <tr>
-
-<td width="65%" valign="top">
-
-## 👋 Hey, I'm Edgar
-
-I'm a **Backend Developer** focused on building applications with the Java ecosystem.
-
-I enjoy working on the parts users don't always see:
-
-**APIs · business logic · databases · authentication · integrations · architecture**
-
-My main stack revolves around:
-
-> ☕ **Java** + 🌱 **Spring Boot** + 🐘 **PostgreSQL** + 🐳 **Docker**
-
-I'm continuously learning how to design cleaner, more maintainable and reliable backend systems.
-
-</td>
-
-<td width="35%" valign="top">
-
-╭─────────────────────────╮
+<td width="65%" valign="top"><h2>👋 Hey, I'm Edgar</h2><p>I'm a <strong>Backend Developer</strong> focused on building applications with the Java ecosystem.</p><p>I enjoy working on the parts users don't always see:</p><p><strong>APIs · business logic · databases · authentication · integrations · architecture</strong></p><p>My main stack revolves around:</p><blockquote>☕ <strong>Java</strong> + 🌱 <strong>Spring Boot</strong> + 🐘 <strong>PostgreSQL</strong> + 🐳 <strong>Docker</strong></blockquote><p>I'm continuously learning how to design cleaner, more maintainable and reliable backend systems.</p></td>
+<td width="35%" valign="top"><pre>╭─────────────────────────╮
 │       SYSTEM.INFO       │
 ├─────────────────────────┤
 │                         │
@@ -72,372 +33,159 @@ I'm continuously learning how to design cleaner, more maintainable and reliable 
 │  🟢  STATUS             │
 │      Building...        │
 │                         │
-╰─────────────────────────╯
-
-
-</td>
-
+╰─────────────────────────╯</pre></td>
 </tr>
 </table>
+<!-- STACK -->
+<div align="center">🧰 Technologies I Use
 
-<br>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,oracle,docker&perline=8" alt="Backend and database technologies" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                         STACK                                  -->
+<img src="https://skillicons.dev/icons?i=linux,arch,git,github,idea,vscode,postman,bash&perline=8" alt="Infrastructure and development tools" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🧰 Technologies I Use
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,oracle,docker&perline=8" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=linux,arch,git,github,idea,vscode,postman,bash&perline=8" />
-
-<br><br>
 
 <sub>Backend • Databases • Infrastructure • Development Tools</sub>
-
 </div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                       WHAT I BUILD                             -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🧩 What I Build
-
-</div>
-
-<table>
+<!-- WHAT I BUILD -->
+<div align="center">🧩 What I Build
+</div><table>
 <tr>
-
-<td align="center" width="25%">
-
-### 🔌
-
-**APIs**
-
-RESTful services
-JSON
-HTTP
+<td align="center" width="25%" valign="top">
+<h3>🔌</h3>
+<strong>APIs</strong>
+<br><br>
+RESTful services<br>
+JSON<br>
+HTTP<br>
 Integrations
-
 </td>
-
-<td align="center" width="25%">
-
-### 🔐
-
-**Security**
-
-Spring Security
-JWT
-Authentication
+<td align="center" width="25%" valign="top">
+<h3>🔐</h3>
+<strong>Security</strong>
+<br><br>
+Spring Security<br>
+JWT<br>
+Authentication<br>
 Authorization
-
 </td>
-
-<td align="center" width="25%">
-
-### 🗄️
-
-**Data**
-
-PostgreSQL
-Oracle
-MySQL
+<td align="center" width="25%" valign="top">
+<h3>🗄️</h3>
+<strong>Data</strong>
+<br><br>
+PostgreSQL<br>
+Oracle<br>
+MySQL<br>
 JPA / Hibernate
-
 </td>
-
-<td align="center" width="25%">
-
-### 🐳
-
-**Infrastructure**
-
-Docker
-Linux
-Git
+<td align="center" width="25%" valign="top">
+<h3>🐳</h3>
+<strong>Infrastructure</strong>
+<br><br>
+Docker<br>
+Linux<br>
+Git<br>
 Environment setup
-
 </td>
-
 </tr>
 </table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                        PROJECTS                                -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🚀 Things I'm Building
-
-<br>
-
-</div>
-
-<table>
+<!-- PROJECTS -->
+<div align="center">🚀 Things I'm Building
+</div><table>
 <tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-## 🦷 Consultorio
-
-### Dental SaaS
-
+<td width="50%" align="center" valign="top">
+<h2>🦷 Consultorio</h2>
+<h3><code>Dental SaaS</code></h3>
 <br>
-
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker" />
-
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker" alt="Consultorio tech stack" />
 <br><br>
-
-A reusable backend platform for dental clinics.
-
-**Focus**
-
-Multi-tenant · Security
-Users · Schedules · Appointments
-
-**Stack**
-
-Java 21 · Spring Boot
-PostgreSQL · Docker
-
+<p>A reusable backend platform for dental clinics.</p>
+<p><strong>Focus</strong></p>
+<p><code>Multi-tenant</code> · <code>Security</code><br>
+<code>Users</code> · <code>Schedules</code> · <code>Appointments</code></p>
+<p><strong>Stack</strong></p>
+<p><code>Java 21</code> · <code>Spring Boot</code><br>
+<code>PostgreSQL</code> · <code>Docker</code></p>
 <br>
-
-🟣 **ACTIVE DEVELOPMENT**
-
-</div>
-
+<p>🟣 <strong>ACTIVE DEVELOPMENT</strong></p>
 </td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-## 🛍️ Belomora
-
-### E-Commerce
-
+<td width="50%" align="center" valign="top">
+<h2>🛍️ Belomora</h2>
+<h3><code>E-Commerce</code></h3>
 <br>
-
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,react,typescript,docker" />
-
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,react,typescript,docker" alt="Belomora tech stack" />
 <br><br>
-
-A custom fashion e-commerce platform.
-
-**Focus**
-
-Products · Cart · Orders
-Payments · Webhooks · JWT
-
-**Stack**
-
-Java · Spring Boot
-React · PostgreSQL
-
+<p>A custom fashion e-commerce platform.</p>
+<p><strong>Focus</strong></p>
+<p><code>Products</code> · <code>Cart</code> · <code>Orders</code><br>
+<code>Payments</code> · <code>Webhooks</code> · <code>JWT</code></p>
+<p><strong>Stack</strong></p>
+<p><code>Java</code> · <code>Spring Boot</code><br>
+<code>React</code> · <code>PostgreSQL</code></p>
 <br>
-
-💗 **ACTIVE DEVELOPMENT**
-
-</div>
-
+<p>💗 <strong>ACTIVE DEVELOPMENT</strong></p>
 </td>
-
 </tr>
 </table>
+<!-- LEARNING -->
+<div align="center">🌱 Currently Learning
 
-<br>
+<img src="https://img.shields.io/badge/Spring_Security-0d1117?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Microservices-0d1117?style=for-the-badge&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/System_Design-0d1117?style=for-the-badge&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Clean_Code-0d1117?style=for-the-badge&logoColor=22D3EE" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                       LEARNING                                -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🌱 Currently Learning
-
-<br>
-
-<img src="https://img.shields.io/badge/Spring_Security-0d1117?style=for-the-badge&logo=springsecurity&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/Microservices-0d1117?style=for-the-badge&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/System_Design-0d1117?style=for-the-badge&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Clean_Code-0d1117?style=for-the-badge&logoColor=22D3EE"/>
-
-<br><br>
-
-<sub>
-Always learning. Always building. Always breaking something first.
-</sub>
-
+<sub>Always learning. Always building. Always breaking something first.</sub>
 </div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                     DEVELOPMENT LOOP                          -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🔄 The Development Loop
-
-<br>
+<!-- DEVELOPMENT LOOP -->
+<div align="center">🔄 The Development Loop
 
 💡 Idea → 🏗️ Design → ☕ Code → 🧪 Test → 🐳 Containerize → 🚀 Ship
 
-<br><br>
 
-<img src="https://img.shields.io/badge/BUILD-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/TEST-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/LEARN-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/REPEAT-EC4899?style=flat-square"/>
 
-</div>
+<img src="https://img.shields.io/badge/BUILD-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/TEST-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/LEARN-38BDF8?style=flat-square" />
+<img src="https://img.shields.io/badge/REPEAT-EC4899?style=flat-square" /></div>
+<!-- GITHUB STATS -->
+<div align="center">📊 GitHub Activity
 
-<br>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<a href="https://github.com/edgarsanchez01"><img src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=38BDF8&text_color=F0F6FC&ring_color=A78BFA&include_all_commits=true" height="180" alt="Edgar's GitHub stats" /></a>
+<a href="https://github.com/edgarsanchez01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsanchez01&layout=compact&hide_border=true&bg_color=0d1117&title_color=EC4899&text_color=F0F6FC" height="180" alt="Top programming languages" /></a>
 
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edgarsanchez01&hide_border=true&background=0d1117&ring=A78BFA&fire=EC4899&currStreakLabel=38BDF8&sideLabels=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" width="65%" alt="GitHub contribution streak" /></div>
+<!-- CONTRIBUTIONS -->
 <div align="center">
-
-## 📊 GitHub Activity
-
-<br>
-
-<a href="https://github.com/edgarsanchez01">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=edgarsanchez01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=38BDF8&text_color=F0F6FC&ring_color=A78BFA&include_all_commits=true"
-  height="180"
-  alt="Edgar's GitHub stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsanchez01&layout=compact&hide_border=true&bg_color=0d1117&title_color=EC4899&text_color=F0F6FC"
-  height="180"
-  alt="Top programming languages"
-/>
-
-</a>
-
-<br><br>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=edgarsanchez01&hide_border=true&background=0d1117&ring=A78BFA&fire=EC4899&currStreakLabel=38BDF8&sideLabels=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E"
-  width="65%"
-  alt="GitHub contribution streak"
-/>
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    CONTRIBUTIONS                              -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg">
-
-  <img
-    src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake">
-
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/edgarsanchez01/edgarsanchez01/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
 </picture>
+</div>
+<!-- FUN -->
+<div align="center">🐧 Outside the Code
+
+☕ Coffee  •  🐧 Linux  •  🎧 Music  •  🕹️ Pixel Art  •  🚀 Building Projects
 
 
-<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                         FUN                                    -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🐧 Outside the Code
-
-<br>
-
-☕ Coffee  • 
-🐧 Linux  • 
-🎧 Music  • 
-🕹️ Pixel Art  • 
-🚀 Building Projects
-
-<br><br>
-
-> *Build it. Break it. Understand it. Build it better.*
-
-<br>
+Build it. Break it. Understand it. Build it better.
 
 <sub>Thanks for stopping by 👾</sub>
-
 </div>
+<!-- CONNECT -->
+<div align="center">🌐 Find Me
 
-<br>
+<a href="https://www.linkedin.com/in/edgar-sanchez01/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+  
+<a href="https://www.instagram.com/gread._.01/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=EC4899" alt="Instagram" /></a>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                         CONNECT                               -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🌐 Find Me
-
-<br>
-
-<a href="https://www.linkedin.com/in/edgar-sanchez01/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
-</a>
-
-  
-
-<a href="https://www.instagram.com/gread._.01/">
-  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=EC4899"/>
-</a>
-
-<br><br>
 
 <sub>☕ Built with Java · 🌱 Spring · 🐧 Linux · 🤓 curiosity</sub>
-
 </div>
