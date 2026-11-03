@@ -105,7 +105,7 @@ Environment setup
 <p><strong>Stack</strong></p>
 <p><code>Java 21</code> · <code>Spring Boot</code><br>
 <code>PostgreSQL</code> · <code>Docker</code></p>
-<p>🟣 <strong>ACTIVE DEVELOPMENT</strong></p>
+<p>🕹️<strong>ACTIVE DEVELOPMENT</strong></p>
 </td>
 <td width="50%" align="center" valign="top">
 <h2>🛍️ Belomora</h2>
@@ -120,7 +120,7 @@ Environment setup
 <p><strong>Stack</strong></p>
 <p><code>Java</code> · <code>Spring Boot</code><br>
 <code>React</code> · <code>PostgreSQL</code></p>
-<p>💗 <strong>ACTIVE DEVELOPMENT</strong></p>
+<p> 🎮 <strong>ACTIVE DEVELOPMENT</strong></p>
 </td>
 </tr>
 </table>
